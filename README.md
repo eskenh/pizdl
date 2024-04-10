@@ -106,15 +106,44 @@ Gemeinsam mit Ihrem IT-Dienstleistungsunternehmen und ggf. Softwareunternehmen g
 
 
 # Sie beraten die Hochschuleinrichtungen im Hinblick auf den Einsatz von IT- Anwendungen und -Verfahren.
+- Die Digitalisierung steigert die Bedeutung von Daten und Informationen für den Geschäftserfolg.
+- Im Gleichschritt steigen so auch die Risiken des IT-Einsatzes.
+- Die zunehmende IT-Durchdringung der Verfahren geht mit ausgeprägter Komplexität und vielen Abhängigkeiten. 
+- Manche Verwaltungsaufgaben und Projekte haben eine straffe Deadline: das bedeutet oft Arbeiten unter Zeitdruck. Dafür muss man geistig und körperlich belastbar sein.
+- Auch sollte man selbstständig und strukturiert arbeiten können.
+- Gute Rhetorik und Präsentationsfähigkeiten etwa sind ein Muss
+- schwierige Sachverhalte einfach zu erklären ist auch eine Notwendigkeit.
+- Außerdem müssen man die Mitarbeitenden der Fakultäten in verschiedenen Anwendungen schulen zu können.
 
 
 # Sie wirken mit bei der Realisierung und der technischen Koordination von projektbezogenen Aktivitäten zwischen internen und externen Akteuren.
+- Die Technische Koordination (TK) hat zum Ziel, die einzelnen Systeme und Anlagen funktional aufeinander abzustimmen, deren Schnittstellen zu koordinieren und die Rahmenbedingungen für einen Betrieb zu schaffen.
+- Koordination ist  - eine Abhängigkeit zwischen Aktivitäten vorliegt und dass grundsätzlich unabhängige bzw. semi-autonome Akteure, durch das Mittel der Kommunikation, ein Ziel verfolgen und sich dafür abstimmen müssen.
+- Koordinationswerkzeuge
+- Klasse 1: Koordination des Zugriffs auf gemeinsame Ressourcen - Google Kalender usw
+- Klasse 2: Aufgabensequentialisierung und Projektmanagement - web-basierte Projektmanagement Software
+- Klasse 3: Synchronisation von Aktivitäten - git
+- 
 
+  
 
 # Sie gestalten die **strategische Weiterentwicklung** der ze.IT und deren Aufgaben im Leitungsteam mit.
-
+- Der Begriff „Strategieentwicklung“ bezeichnet den Prozess, in dem das Management eines Unternehmen definiert, welche Ziele das Unternehmen erreichen möchte und wie es diese erreicht – kurz-, mittel- und langfristig.
+- Aus der Strategie leiten sich auch die Ziele ab. Die Strategie ist vor allem vom Betrachtungszeitraum abhängig (kurz-, mittel-, langfristig).
+- Die Strategieentwicklung ist eine klassische Managementaufgabe, da ohne eine Strategie auch keine Ziele für die Entwicklung eines Unternehmens formuliert werden können, an denen die Mitarbeiter top-down ihr Handeln im Alltag orientieren können.
+- Entsprechend wichtig ist es auch die Strategie nebst den hieraus erwachsenden Zielen an die Mitarbeiter einer Organisation zu kommunizieren.
+- 
 
 # Ausgeprägte Organisationsfähigkeit in Verbindung mit einer hohen selbstständigen und zielorientierten Arbeitsweise 
+- Organisationsfähigkeit ist die Fähigkeit, organisatorische Aufgaben erfolgreich zu bewältigen.
+- Dies bedeutet, dass Sie in der Lage sind, Zusammenhänge gedanklich zu isolieren und zu priorisieren.
+- Die Fähigkeit, Prioritäten zu setzen und diese auch umzusetzen.
+- Die Bereitschaft, Verantwortung zu übernehmen und Entscheidungen zu treffen.
+- Die Fähigkeit, effektive Teams zu leiten und mit anderen Menschen zusammenzuarbeiten.
+- Die Bereitschaft, Lernen und Weiterbildung als Teil des Arbeitsprozesses anzusehen.
+- Die Bereitschaft, Fehler als Chance zum Lernen und Wachsen anzusehen.
+- Die Bereitschaft, kontinuierlich daran zu arbeiten, die eigenen Stärken und Schwächen kennenzulernen sowie diese transparent auszutauschen.
+- **In Führungspositionen ist es unter anderem wichtig, die Fähigkeiten der Mitarbeiter richtig einzuschätzen und Termine und Aufgaben optimal zu planen und zu verteilen.**
 
 
 # die Fähigkeit zum konzeptionellen und analytischen Arbeiten.
@@ -124,9 +153,33 @@ Gemeinsam mit Ihrem IT-Dienstleistungsunternehmen und ggf. Softwareunternehmen g
 
 
 # Leitungserfahrung sowie Erfahrung in der **Steuerung von Veränderungsprozessen** in IT und Verwaltung.
+- Das Fundament aller Projekte ist das aktive Steuern, Managen und Begleiten von Veränderungsprozessen.
+- 4 Phasen
+1. Die Analysephase: Analyse des Ist-Zustandes und Beginn des Umdenkens in der Führungsetage
+2. Die Designphase: Festlegung geeigneter Massnahmen für die Veränderung
+3. Die Umsetzungsphase: Umsetzung der Massnahmen nach verschiedenen Modellen und Ansätzen
+4. Die Reflexionsphase: regelmässige kritische Prüfung der gewählten Massnahmen und eventuelles Gegensteuern
+- Untrennbar mit diesen Themenstellungen verbunden ist die Digitalisierung und die digitale Transformation. 
+- die Hochschule das den (digitalen) Markttrends nicht folgen kann, Geschäftseinheiten nicht digital aufstellt oder notwendige Veränderungen zu spät erkennt, verliert Potenziale. 
+- Dies zeigt sich schnell in einer Verschlechterung der Schlüsselindikatoren. 
+- Digitalisierung ist ein Trend, ist heute ein essentieller Faktor für den Erfolg .
 
 
 # Konzeptionelles und strukturelles Verständnis für die IT-gestützte Umsetzung hochschulspezifischer Verwaltungsaufgaben.
+- die IT tief in den Kernbereich Lehre eingedrungen.  
+- Die Digitalisierung der Forschung und die damit verbundene Forderung nach der nachhaltigen Speicherung und Bereitstellung von Forschungsdaten stellen an viele Fachdisziplinen Anforderungen, 
+- Die Bologna-Reform hat in weiten Bereichen des Studierenden- und Studiengangsmanagements zu zusätzlichen Anforderungen an die Verwaltung geführt, die nur mit einer durchgängigen IT-Unterstützung des Student-Lifecylces erfüllbar sind.
+- Die IT-Ressourcen der Hochschulen (sowohl Sach- wie Personalmittel) haben nicht mit den steigenden Anforderungen Schritt gehalten. Die
+sich daraus ergebende Suche nach Optimierungspotenzialen zeigt sich etwa in der Diskussion um das Outsourcing von Leistungen, z.B. Nutzung
+von Cloud-Angeboten oder kooperative Erbringung von Diensten mit anderen Hochschulen.
 
 
 # Gender kompenetz
+- Ich bin tief in die LGBT-Community integriert und kenne sie gut:
+- Kenntnis und Verständnis der Geschlechterrollen und Geschlechterverhältnisse 
+- Kenntnis von Fakten und Zahlen zur Situation von Frauen und Männern sowie der Ansätze der Frauen- und Männerbewegung
+- Sensibilität für Diskriminierungsstrukturen
+- Kenntnisse der Strategien zur Umsetzung von Gender-Mainstreaming
+- Fähigkeit der Berücksichtigung und Umsetzung gendersensibler und gendergerechter Ansätze
+- Auseinandersetzung mit Kompetenzen und Potentialen in Zusammenhang mit geschlechtsspezifischer Sozialisation
+- Sensibilisierung von Führungskräften
